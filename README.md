@@ -11,4 +11,4 @@
 ![Project-03 Preview](./Project-03.png)
 
 I deployed the project on **Netlify**:
-- You can preview the project here, [**Law Home Page**]()
+- You can preview the project here, [**Law Home Page**](https://law-home-page-3.netlify.app/)
